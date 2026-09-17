@@ -15,6 +15,10 @@ I'm documenting my journey from vocational training to real-world IT experience:
 
 I share selected technical notes and project updates here in **English** so they can reach more people. My source notes may start in Spanish or Catalan, then get translated and edited before publishing.
 
+### Latest notes
+
+- [From workshop to meeting room: a hands-on day in Barcelona](posts/2026-09-17-workshop-to-meeting-room.md)
+
 > Building skills one project at a time.
 
 ---
