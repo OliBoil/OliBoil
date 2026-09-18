@@ -17,6 +17,7 @@ I share selected technical notes and project updates here in **English** so they
 
 ### Latest notes
 
+- [A practical day in the workshop: repairs, backups and PC builds](posts/2026-09-18-practical-workshop-day.md)
 - [From workshop to meeting room: a hands-on day in Barcelona](posts/2026-09-17-workshop-to-meeting-room.md)
 
 > Building skills one project at a time.
